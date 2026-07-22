@@ -1,0 +1,20 @@
+{
+  "name": "@robobites/shared-libs",
+  "version": "0.1.0",
+  "description": "Shared utilities and contracts for Robobites services",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "typescript": "^5.5.3"
+  }
+}
