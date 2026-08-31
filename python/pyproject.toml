@@ -3,9 +3,9 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "robobites-shared-libs"
+name = "caldova-shared-libs"
 version = "0.1.0"
-description = "Shared utilities and contracts for Robobites services"
+description = "Shared utilities and contracts for Caldova services"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
@@ -13,4 +13,4 @@ dependencies = ["PyYAML>=6.0.1"]
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["robobites_shared*"]
+include = ["caldova_shared*"]

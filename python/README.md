@@ -1,3 +1,3 @@
-# robobites-shared-libs
+# caldova-shared-libs
 
-Python utilities for Robobites service workers and data jobs.
+Python utilities for Caldova service workers and data jobs.

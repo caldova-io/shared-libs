@@ -1,7 +1,7 @@
 {
-  "name": "@robobites/shared-libs",
+  "name": "@caldova/shared-libs",
   "version": "0.1.0",
-  "description": "Shared utilities and contracts for Robobites services",
+  "description": "Shared utilities and contracts for Caldova services",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,4 +17,4 @@
     "@types/node": "^20.14.10",
     "typescript": "^5.5.3"
   }
-}
+}

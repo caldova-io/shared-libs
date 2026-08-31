@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package robobites.contracts.v1;
+package caldova.contracts.v1;
 
 import "google/protobuf/timestamp.proto";
 
@@ -53,4 +53,4 @@ message RobotStatus {
   string active_order_id = 4;
   string current_geohash = 5;
   google.protobuf.Timestamp reported_at = 6;
-}
+}
